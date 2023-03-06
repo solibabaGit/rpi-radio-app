@@ -1,0 +1,7 @@
+https://liveradio.swr.de/sw331ch/swr3/play.aac;swr3.png;SWR3
+http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3;wdr2.png;WDR2
+http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3;1live.png;1live
+http://streams.radiobob.de/live-nrw-mitte/mp3-192/mediaplayer;radioBOB.png;Radio BOB!
+http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3;wdr4.png;WDR4
+http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3;wdrcosmo.png;WDRcosmo
+http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3;wdr5.png;WDR5
